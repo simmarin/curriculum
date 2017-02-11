@@ -13,3 +13,16 @@
 Técnico Programador de software 2009 – 2012
 **Instituto Tecnológico de Mexicali**
 Ingeniería en sistemas computacionales 2013- en curso
+##EXPERIENCIA LABORAL
+**OVNI COMPUTADORAS (2009-2012)**
+Puesto: Técnico
+Funciones: reparación de equipos de cómputo (hardware software), atención a clientes.
+Jefe Julio Bárcenas Ascencio Cel.: 044 686 143 7588.
+**COPY GRAFIC (2012-2015)**
+Puesto: técnico
+Funciones: Reparación de equipos multifuncionales y fotocopiadoras, Soporte en informática y redes, atención a clientes.
+Jefe: José Francisco Fierro Lucero cel.: 6861575086.
+**ADG COPY SERVICE(2015-actualidad)**
+Puesto: técnico
+Funciones: Reparación de equipos multifuncionales y fotocopiadoras, Soporte en informática y redes.
+Jefe: David G. Rosas  cel.: 6862544516.
