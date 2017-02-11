@@ -8,3 +8,8 @@
 **Teléfono Casa: **6865645539
 **Cel.:** 686 1610320
 **Correo Electrónico:** marin.simm@gmail.com
+##PREPARACION ACADEMICA.
+**CECYTE BC Plantel Misiones**
+Técnico Programador de software 2009 – 2012
+**Instituto Tecnológico de Mexicali**
+Ingeniería en sistemas computacionales 2013- en curso
