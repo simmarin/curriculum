@@ -26,3 +26,8 @@ Jefe: José Francisco Fierro Lucero cel.: 6861575086.
 Puesto: técnico
 Funciones: Reparación de equipos multifuncionales y fotocopiadoras, Soporte en informática y redes.
 Jefe: David G. Rosas  cel.: 6862544516.
+##OTRAS HABILIDADES
+**HABILIDADES**
+*Manejo de equipos de cómputo, hardware y software (paquetería office, adobe Photoshop, eclipse, netbeans, activehdl, visual studio, multisim), conocimiento en programación (java, c#, html, vhdl), manejo de multifuncionales y fotocopiadoras (uso e instalación en red), facilidad de aprendizaje, trabajo en equipo.*
+**IDIOMAS**
+Español, Dialecto (mixe), ingles 50%
